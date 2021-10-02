@@ -1,0 +1,2 @@
+Hello {0}
+Xin chào và hẹn gặp lại
